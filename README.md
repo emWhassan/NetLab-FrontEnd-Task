@@ -5,6 +5,6 @@
     CSS
     HTML
     Javascript
-# DesCription
+# Description
 # Setup/Installation Requirements
 # TODO's/Suggestions
