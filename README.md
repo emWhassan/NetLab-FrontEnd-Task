@@ -62,5 +62,5 @@ Open the following URL in your browser
 
 ## Screenshots
 
-[App Screenshot](https://www.linkpicture.com/q/screencapture-localhost-3000-2022-12-13-15_31_10.png)
+![App Screenshot](https://www.linkpicture.com/q/screencapture-localhost-3000-2022-12-13-15_31_10.png)
 
