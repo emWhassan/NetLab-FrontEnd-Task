@@ -53,4 +53,5 @@ Open the following URL in your browser
 ## Screenshots
 ![Alt text]([http://full/path/to/img.jpg](https://www.linkpicture.com/q/screencapture-localhost-3000-2022-12-13-15_31_10.png) "Optional title")
 ![App Screenshot]([https://iili.io/HoIT7Hu.png](https://iili.io/HoIT7Hu.png)
+![Employee data]([http://imageurl](https://iili.io/HoIT7Hu.png](https://iili.io/HoIT7Hu.png) "Employee Data title")
 
