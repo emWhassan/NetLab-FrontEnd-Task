@@ -53,6 +53,6 @@ Open the following URL in your browser
 
 ## Screenshots
 
-![Task-Secreen-shot](https://www.linkpicture.com/q/screencapture-localhost-3000-2022-12-13-15_31_10.png)
+[Task-Secreen-shot](https://www.linkpicture.com/q/screencapture-localhost-3000-2022-12-13-15_31_10.png)
 
 
