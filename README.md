@@ -48,6 +48,7 @@ Open the following URL in your browser
 
 ```bash
   http://localhost:3000/ 
+ ```
 
 
 ## Screenshots
