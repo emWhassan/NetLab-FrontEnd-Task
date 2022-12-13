@@ -24,8 +24,8 @@ This project is developed by using the following tech-stack:
 Install my-project with npm
 
 ```bash
-  npm install my-project
-  cd my-project
+  npm install 
+  cd NetLab-FrontEnd-Task-main
 ```
     
 ## Run Locally
