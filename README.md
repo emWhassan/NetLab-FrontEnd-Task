@@ -1,8 +1,7 @@
 
 # NetLab Frontend Task
 
-  Task was to convert Figma design to a webpage, to evaluete frontend skills .Task has achived 
-  using below mentioned technologies.Web page could be open in any browser, it is also responsive and mobile friendly.  
+  The task was to convert Figma design to a webpage, to evaluate frontend skills. Task has achieved using below-mentioned technologies. Web page could be open in any   browser, it is also responsive and mobile friendly. 
 
 
 ## Authors
