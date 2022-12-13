@@ -17,15 +17,6 @@ This project is developed by using the following tech-stack:
 - CSS
 - HTML
 - JavaScript
-
-## Installation
-
-Install my-project with npm
-
-```bash
-  npm install 
-  cd NetLab-FrontEnd-Task-main
-```
     
 ## Run Locally
 
