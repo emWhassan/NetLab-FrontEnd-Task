@@ -1,0 +1,27 @@
+.tile{
+  padding: 2rem;
+  margin: 1rem;
+  border-radius: 2rem;
+}
+.tile.info{
+  background: #d5f3ff;
+}
+.tile.success{
+  background: #dbf9df;
+}
+.tile-heading{
+  display: flex;
+}
+.tile-heading h5{
+  flex-grow: 1;
+}
+.tile-heading svg{
+  margin-right: .3rem;
+  transition: margin .1s linear;
+}
+.tile p{
+  margin-top: .5rem;
+}
+.tile:hover .tile-heading svg{
+  margin: 0;
+}

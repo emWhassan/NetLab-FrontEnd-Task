@@ -1,0 +1,132 @@
+.home-cover{
+  display: flex;
+  padding: 4rem 0 0;
+}
+.home-cover > div {
+  overflow: hidden;
+}
+.home-cover .cover-center {
+  flex-grow: 1;
+  text-align: center;
+}
+.home-cover .cover-center h3{
+  margin-top: 1rem;
+}
+.home-cover .cover-center .cover-data{
+  display: flex;
+  justify-content: center;
+  margin: 5rem 0 5rem;
+}
+.home-cover .cover-center .cover-data > div{
+  flex-grow: 1;
+  flex-basis: 0;
+  padding: 0 1rem;
+}
+.home-cover .cover-center .cover-data p{
+  margin-top: .5rem;
+  max-width: 10rem;
+  margin: .5rem auto 0;
+}
+.home-cover .cover-bg-image {
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+}
+.home-cover .left-image .cover-bg-image {
+  background-position: top right !important;
+}
+.home-cover .right-image .cover-bg-image {
+  background-position: top left !important;
+}
+.tiles {
+  display: flex;
+  flex-wrap: wrap;
+  cursor: pointer;
+  margin-top: -2rem;
+}
+.tile{
+  flex-basis: calc(33% - 2rem);
+}
+.pdfs {
+  display: flex;
+  margin: 4rem auto;
+}
+.videos {
+  display: flex;
+  margin: 4rem auto;
+}
+
+@media only screen and (min-width: 1024px) and (max-width: 1399px)  {
+  .home-cover .cover-center .cover-data{
+    margin-top: 1rem;
+  }
+}
+
+@media only screen and (min-width: 640px) and (max-width: 1023px)  {
+  .home-cover{
+    padding: 2rem 0 0;
+  }
+  .home-cover .cover-center .cover-data{
+    margin-top: 1rem;
+  }
+  .left-image, .right-image {
+    display: none;
+  }
+  .cover-center{
+    background-image: url('../assets/images/cover.png');
+    background-repeat: no-repeat;
+    background-position: center 0;
+    padding: 2rem 0;
+  }
+  .tile {
+    flex-basis: calc(50% - 2rem);
+  }
+  .videos {
+    flex-direction: column;
+    row-gap: 2rem;
+  }
+}
+
+@media only screen and (max-width: 639px) {
+  .home-cover{
+    padding: 1rem 0 0;
+  }
+  .home-cover .cover-center .cover-data{
+    margin-top: 1rem;
+  }
+  .left-image, .right-image {
+    display: none;
+  }
+  .cover-center{
+    background-image: url('../assets/images/cover.png');
+    background-repeat: no-repeat;
+    background-position: center 0;
+    padding: 2rem 0;
+  }
+  .cover-center .cover-data{
+    flex-direction: column;
+    margin: 0 !important;
+  }
+  .tile {
+    flex-basis: calc(100% - 2rem);
+  }
+  .pdfs{
+    flex-direction: column;
+    row-gap: 2rem;
+  }
+  .pdfs .image-section{
+    margin-left: 0;
+  }
+  .videos {
+    flex-direction: column;
+    row-gap: 2rem;
+  }
+  footer .details{
+    flex-direction: column;
+    text-align: center;
+    row-gap: 1rem;
+  }
+  footer .details .website{
+    text-align: center;
+  }
+}

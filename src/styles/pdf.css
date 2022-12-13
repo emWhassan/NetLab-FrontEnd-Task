@@ -1,0 +1,23 @@
+.pdf{
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  padding: 0 1rem;
+}
+.pdf .image-section{
+  width: 150px;
+  border: 1px solid #eee;
+  box-shadow: 1px 1px 6px #999;
+  overflow: hidden;
+  margin: 0 2rem 0 0;
+}
+.pdf .content-section h5{
+  cursor: pointer;
+  transition: color .2s linear;
+}
+.pdf .content-section h5:hover{
+  opacity: .7;
+}
+.pdf .content-section p{
+  margin-top: .4rem;
+}

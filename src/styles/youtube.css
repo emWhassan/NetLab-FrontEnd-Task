@@ -1,0 +1,41 @@
+.video{
+  padding: 0 2rem;
+}
+.img-container{
+  position: relative;
+  cursor: pointer;
+  border-radius: 1.5rem;
+  overflow: hidden;
+}
+.img-container .play-icon{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 60px;
+  height: 60px;
+  background: #3bbced;
+  border-radius: 50%;
+}
+.img-container .play-icon svg{
+  color: #273475;
+  width: 25px;
+  height: 25px;
+  padding-left: 4px;
+}
+.img-container:hover .play-icon{
+  background: #273475;
+}
+.img-container:hover .play-icon svg{
+  color: #3bbced;
+}
+.video .content-section{
+  margin-top: 2rem;
+  text-align: center;
+}
+.video .content-section p{
+  margin-top: .7rem;
+}
