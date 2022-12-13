@@ -53,5 +53,8 @@ Open the following URL in your browser
 ## Screenshots
 ![Alt text]([http://full/path/to/img.jpg](https://www.linkpicture.com/q/screencapture-localhost-3000-2022-12-13-15_31_10.png) "Optional title")
 ![App Screenshot]([[https://iili.io/HoIT7Hu.png](https://iili.io/HoIT7Hu.png](https://www.google.com/imgres?imgurl=https%3A%2F%2Faboutmonica.com%2Fmedia%2Fmonica-
-[my_blog](https://www.foxinfotech.in/2019/12/github-markdown-add-an-image-to-readme-md-file.html)
+<p align="center">
+  <img src="your_relative_path_here" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>
 
