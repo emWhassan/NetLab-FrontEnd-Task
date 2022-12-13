@@ -7,37 +7,49 @@ export const tileData = [
     title: "Title 1",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut facilisis, nibh nec lacinia ultricies",
     type: "info",
-    onPress: () => {}
+    onPress: () => {
+     return window.open('https://noa.stami.no/', '_blank');
+    }
   },
   {
-    title: "Title 1",
+    title: "Title 2",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut facilisis, nibh nec lacinia ultricies",
     type: "info",
-    onPress: () => {}
+    onPress: () => {
+     return window.open('https://noa.stami.no/', '_blank');
+    }
   },
   {
-    title: "Title 1",
+    title: "Title 3",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut facilisis, nibh nec lacinia ultricies",
     type: "info",
-    onPress: () => {}
+    onPress: () => {
+     return window.open('https://noa.stami.no/', '_blank');
+    }
   },
   {
-    title: "Title 1",
+    title: "Title 4",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut facilisis, nibh nec lacinia ultricies",
     type: "info",
-    onPress: () => {}
+    onPress: () => {
+     return window.open('https://noa.stami.no/', '_blank');
+    }
   },
   {
-    title: "Title 1",
+    title: "Title 5",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut facilisis, nibh nec lacinia ultricies",
     type: "info",
-    onPress: () => {}
+    onPress: () => {
+     return window.open('https://noa.stami.no/', '_blank');
+    }
   },
   {
-    title: "Title 1",
+    title: "Title 6",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut facilisis, nibh nec lacinia ultricies",
     type: "success",
-    onPress: () => {}
+    onPress: () => {
+     return window.open('https://noa.stami.no/', '_blank');
+    }
   }
 ]
 
